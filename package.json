@@ -1,0 +1,20 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "basic react project with babel and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "boovius",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "webpack": "^1.12.10"
+  },
+  "dependencies": {
+    "react": "^0.14.6"
+  }
+}
