@@ -22,7 +22,7 @@ module.exports = {
       },
       {
         test: /\.html$/,
-        loaders: ["file?name=[name].ext"],
+        loaders: ["file?name=[name].[ext]"],
       },
     ],
   },
