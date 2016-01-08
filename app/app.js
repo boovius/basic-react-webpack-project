@@ -1,7 +1,7 @@
-var React = require('react');
+var ReactDOM = require('react-dom');
 var Greeting = require('./greeting');
 
-React.render(
+ReactDOM.render(
   <Greetinge name="world"/>,
   document.body
 );
