@@ -19,6 +19,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "md5": "^2.0.0",
     "react": "^0.14.6",
     "react-dom": "^0.14.6"
   }
